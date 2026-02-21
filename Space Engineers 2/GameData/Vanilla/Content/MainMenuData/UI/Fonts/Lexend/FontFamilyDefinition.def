@@ -1,0 +1,29 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.1.2878"
+  },
+  "$Type": "VRage:Keen.VRage.Render.UI.FontFamilyDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "74070767-d50b-47bf-ac37-7b06fa5eb355",
+    "FontFamily": "Lexend",
+    "Fonts": [
+      {
+        "Key": "983d2656-ce65-4db7-8916-001229bb11b7",
+        "Value": "f286ee55-9f8c-43ae-a947-711191d9d3f0"
+      },
+      {
+        "Key": "0d04c895-2d8c-42b4-ad64-80e23e3e5d7c",
+        "Value": "0a9bb848-9a7b-448c-9a99-749a6ba9253b"
+      },
+      {
+        "Key": "c0a4f146-b931-4873-bf75-36f456b32db3",
+        "Value": "4ff2a825-444f-4b4a-b809-d11f0b5ff1b6"
+      },
+      {
+        "Key": "cf976f3d-4f57-4ab6-97be-0abdfde28a17",
+        "Value": "aed3fea4-0449-48ac-a5d0-977b5561e90f"
+      }
+    ]
+  }
+}

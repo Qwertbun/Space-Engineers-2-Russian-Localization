@@ -1,0 +1,85 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.1.2878"
+  },
+  "$Type": "VRage:Keen.VRage.Render.UI.FontFamilyDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "8309a584-a5f3-4069-9b4c-451ac5b433be",
+    "FontFamily": "SofiaSans",
+    "Fonts": [
+      {
+        "Key": "35b4ae51-2196-4bf5-baf0-b6c4eda98162",
+        "Value": "c92f314e-e2bf-452c-8206-3591a95ae958"
+      },
+      {
+        "Key": "2099e112-441f-43a3-ae39-9327631a52fb",
+        "Value": "11e72a16-20c9-4a9e-9d8b-64a416bc3ff1"
+      },
+      {
+        "Key": "251b7839-f999-4a45-aaa2-fd482bf07405",
+        "Value": "9fbea6f4-abea-4a08-a2a5-69a92fab26f0"
+      },
+      {
+        "Key": "3bc75a30-b651-45c5-a4f5-a9a2adab61f0",
+        "Value": "c319fb44-b626-4581-b7f7-ccfd177340b8"
+      },
+      {
+        "Key": "1ae329f6-d6bc-4587-a780-16afe8c572dc",
+        "Value": "19a6153d-6ad3-43ee-88e7-9161e606cfa0"
+      },
+      {
+        "Key": "920a47d0-052c-46da-bfa1-b99d0bf3ed57",
+        "Value": "d716b170-7791-4b7a-bc54-d1b57d061e89"
+      },
+      {
+        "Key": "41c87508-f025-4964-aab3-241423c4946d",
+        "Value": "32654a4a-e058-4e84-a24a-79b337afe039"
+      },
+      {
+        "Key": "9e7a3480-ac0c-474e-8644-f5bb91fba968",
+        "Value": "f7825e02-a350-495d-8d39-4f8f4fddc497"
+      },
+      {
+        "Key": "42c46739-bbb2-478f-a684-f43ff232240e",
+        "Value": "9b4246fb-3bc3-4dad-a199-387bda026367"
+      },
+      {
+        "Key": "97937cf5-a03c-478b-b47f-10468946a914",
+        "Value": "b6a3759c-2d83-4a2e-b8c1-2f5be88125b3"
+      },
+      {
+        "Key": "a533ec14-3e23-479b-a04f-e6f971a2e901",
+        "Value": "6af24436-8edd-49b1-bbfa-df9ffd7170ec"
+      },
+      {
+        "Key": "5af40e9a-becb-467a-b91a-d30a32251c19",
+        "Value": "6fa07763-b11b-47f8-a180-b1409189ca2a"
+      },
+      {
+        "Key": "43e0819c-359c-4c18-b8e4-010495388251",
+        "Value": "221ecfa0-c29d-43d0-a1b1-a9a2bc56f651"
+      },
+      {
+        "Key": "38c92489-2ac0-4bc2-bff3-e8220c63b79d",
+        "Value": "fca34b24-df69-4377-9c4f-3e6d706c2dd1"
+      },
+      {
+        "Key": "a2ce1d8d-8e97-4711-9480-5e689b9b5719",
+        "Value": "e2b421ee-18ba-4048-8689-4a14b2c56f0e"
+      },
+      {
+        "Key": "e2ec9588-46a1-442f-9f0b-4bdbaa5e9c0b",
+        "Value": "fe2d64c1-1672-4d75-8f3e-73144c3c660c"
+      },
+      {
+        "Key": "98b34579-05c8-4fec-be0e-cdaa101bc60e",
+        "Value": "adc009a5-f3e2-497e-bdcc-a14b1cd1083d"
+      },
+      {
+        "Key": "4bf78ea8-beb4-44cc-8b3f-93533fd80292",
+        "Value": "71dcea06-78d3-4347-a953-e3433ae65d29"
+      }
+    ]
+  }
+}

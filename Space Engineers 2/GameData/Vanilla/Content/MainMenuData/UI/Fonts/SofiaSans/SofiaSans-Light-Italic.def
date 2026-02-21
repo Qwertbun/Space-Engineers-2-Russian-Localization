@@ -1,0 +1,13 @@
+{
+  "$Bundles": {
+    "System.Runtime": "1.0.0.0",
+    "VRage": "2.0.1.2878"
+  },
+  "$Type": "VRage:Keen.VRage.Render.UI.FontDefinitionObjectBuilder",
+  "$Value": {
+    "Guid": "6af24436-8edd-49b1-bbfa-df9ffd7170ec",
+    "File": "{G}237bb5e3-c052-4666-ae93-9688f34dce8b",
+    "Style": "Italic",
+    "Weight": "Light"
+  }
+}
